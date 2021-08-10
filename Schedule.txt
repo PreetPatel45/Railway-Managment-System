@@ -1,0 +1,13 @@
+NAME OF TRAIN | DEPARTURE CITY | DEPARTURE TIME | ARRIVAL CITY | ARRIVAL TIME
+Rajdhani Express  Bombay  9:05  Delhi  21:20
+Shanti Express  Indore  4:05  Delhi  20:45
+Rajdhani Express  Jaipur  8:40  Indore  2:10
+Gujarat Express  Indore  19:00  Delhi  8:00
+Deccan Express  Vadodara  9:00  Bhopal  23:00
+Jalandhar Express  Vadodara  12:00  Bombay  8:00
+Gujarat Express  Indore  10:00  Delhi  15:00
+Chennai Express  Jaipur  15:00  Vadodara  23:50
+Jalandhar Express  Ahmedabad  10:00  Jaipur  19:00
+Deccan Express  Vadodara  23:00  Ahmedabad  1:00
+Humsafar Express  Manali  2:50  Ooty  1:10
+Rajdhani Express  Jodhpur  9:00  Ooty  3:00

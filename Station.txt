@@ -1,0 +1,13 @@
+Name of Station | No. of platforms
+Jaipur  11
+Indore  8
+Bombay  15
+Ahmedabad  20
+Delhi  25
+Bhopal  15
+Vadodara  20
+Hyderabad  20
+Gandhinagar  12
+Manali  12
+Ooty  10
+Jodhpur  10

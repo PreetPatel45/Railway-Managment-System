@@ -1,0 +1,11 @@
+Name of Train | No. of platforms
+Rajdhani Express  320
+Humsafar Express  400
+Fanaty Express  295
+Shanti Express  250
+Jalandhar Express  350
+Gujarat Express  470
+Deccan Express  360
+Hyderabad Express  400
+Chennai Express  500
+Hello Express  300
